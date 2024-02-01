@@ -16,7 +16,7 @@ const Item = ({item}) => {
                     </div>
                    
                     <div className="card-actions justify-center">
-                        <button className="btn btn-primary">Show Details</button>
+                        <button className="btn btn-primary">Show Details Info</button>
                     </div>
                 </div>
             </div>
